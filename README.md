@@ -10,7 +10,7 @@ SmartLens AI is a technology startup focused on delivering AI-powered computer v
 - **AI-Powered Security**: AI-driven algorithms monitor for suspicious activities, providing real-time alerts to enhance in-store security.
 
 ### For more details on deployment using AWS ECS, visit our [Wiki page](https://github.com/nithishkumar16/SmartLensAI_Part2/wiki).
-### Youtube Tutorial : [Youtube video](https://www.youtube.com/watch?v=_1cygE1WyyI)).
+### Youtube Tutorial : [Youtube video](https://www.youtube.com/watch?v=_1cygE1WyyI).
 
 ### Technologies Used:
 - **Frontend**: React.js, Bootstrap
