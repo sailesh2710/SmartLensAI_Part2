@@ -15,7 +15,7 @@ SmartLens AI is a technology startup focused on delivering AI-powered computer v
 ### Technologies Used:
 - **Frontend**: React.js, Bootstrap
 - **Containerization**: Docker (for deployment)
-- **Cloud Services**: AWS EC2 and AWS S3 for frontend hosting
+- **Cloud Services**: AWS EC2 and AWS S3 for hosting
 
 
 
